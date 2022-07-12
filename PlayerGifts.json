@@ -10,7 +10,7 @@
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":10000000,
+            "Currency":999999999999999999,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
